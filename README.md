@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there 👋 
+I am Yan Qi, a computer engineering major from Nanyang Technological University, Singapore! I am skilled in python, C, Java and C++. In addition to these programming languages, I am learning HTML5 and CSS to navigate the world of web development.	🕵️
 
-<!--
-**yanyan-alien/yanyan-alien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **yanyan-alien/yanyan-alien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
