@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I am Yan Qi, a computer engineering major from Nanyang Technological University!👩‍💻 I picked up Bootstrap, React and Flutter to learn more about web developement and app development. I'm currently learning more about binary exploitations and excited to be able to start smashing the stack! 🕵️
+I am Yan Qi, a computer engineering major from Nanyang Technological University!👩‍💻 I picked up Bootstrap, React and Flutter to learn more about web development and app development. I'm currently learning more about binary exploitations and excited to be able to start smashing the stack! 🕵️
 
 ### Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white "Python3")
