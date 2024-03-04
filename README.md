@@ -1,12 +1,7 @@
-### Hi there 👋 
+## Hi there 👋 
 A computer engineering major from NTU with specialisations in artificial intelligence and cybersecurity. I'm currently learning more about malware analysis, binary exploitation in my free time.
 
-### OS
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-### Skills
+## Skills 🕹️🎯
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white "Python3")
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white "C")
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white "C++")
@@ -28,10 +23,15 @@ A computer engineering major from NTU with specialisations in artificial intelli
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### Social 
+## OS 👩‍💻💻
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+## Social 🌏💪
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/limyanqi/)
 
-
+<!-- ![](https://komarev.com/ghpvc/?username=yanyan-alien) -->
 
 
 <!-- Here are some ideas to get you started:
